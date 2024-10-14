@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Akbar Nugraha Dimyati
+ * @author Bergas Cahyo Nuswantoro
  */
 public class Toko {
     public static void main(String[] args) {
