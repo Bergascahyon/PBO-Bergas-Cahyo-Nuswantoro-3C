@@ -9,7 +9,7 @@ import java.io.FileWriter;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Akbar Nugraha Dimyati
+ * @author Bergas Cahyo Nuswantoro
  */
 public class PenentuHari extends javax.swing.JFrame {
     int jum_hari;
